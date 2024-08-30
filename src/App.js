@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Change added via a PR
+          Learn React. Change added via a PR
         </a>
       </header>
     </div>
